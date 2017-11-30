@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="12" height="8" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" source="background.tsx"/>
+ <tileset firstgid="7" source="button 3.tsx"/>
+ <tileset firstgid="13" source="instruct.tsx"/>
+ <layer name="Tile Layer 1" width="12" height="8">
+  <data encoding="csv">
+1,2,3,1,2,3,1,2,3,1,2,3,
+4,5,6,4,5,6,4,5,6,4,5,6,
+1,2,3,1,2,3,1,2,3,1,2,3,
+4,5,6,4,5,6,4,5,6,4,5,6,
+1,2,3,1,2,3,1,2,3,1,2,3,
+4,5,6,4,5,6,4,5,6,4,5,6,
+1,2,3,1,2,3,1,2,3,1,2,3,
+4,5,6,4,5,6,4,5,6,4,5,6
+</data>
+ </layer>
+ <layer name="Tile Layer 2" width="12" height="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,7,8,0,0,0,0,9,10,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,15,0,0,0,0,0,0,0,0,
+0,0,16,17,18,0,13,14,19,20,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
